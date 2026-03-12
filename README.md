@@ -28,7 +28,7 @@ Atualmente, o repositório contém exercícios focados em:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/visualg-30/visualg-30.github.io/master/img/visualg.png" alt="VisualG Logo" width="400">
+      <img src="visualg-logo.png" alt="VisualG Logo" width="300">
     </td>
   </tr>
 </table>
