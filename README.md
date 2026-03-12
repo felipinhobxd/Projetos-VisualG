@@ -1,7 +1,7 @@
 # Lógica de Programação e Algoritmos (VisualG)
 
 
-Este repositório foi criado para armazenar meus estudos e exercícios práticos de Lógica de Programação. O foco principal é o desenvolvimento do raciocínio lógico e a implementação de algoritmos utilizando a linguagem Portugol no software VisualG. Exercícios e desafios de lógica de programação desenvolvidos em Portugol (VisualG) durante o curso de Algoritmos do Nelio Alves.
+Este repositório armazena meus estudos e exercícios práticos de Lógica de Programação. O foco principal é o desenvolvimento do raciocínio lógico através da implementação de algoritmos em Portugol, utilizando o software VisualG. Todo o conteúdo foi desenvolvido durante o curso de Algoritmos e Lógica de Programação do professor Nelio Alves.
 
 ---
 
