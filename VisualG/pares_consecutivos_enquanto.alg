@@ -1,4 +1,4 @@
-algoritmo "pares consecutivos"
+algoritmo "pares consecutivos enquanto"
 
 var
 
@@ -8,7 +8,6 @@ inicio
 
 escreval("Digite um número inteiro (0 para parar): ")
 leia(x)
-
 
 //garante que o número seja par
 enquanto x <> 0 faca
@@ -23,10 +22,12 @@ enquanto x <> 0 faca
     x <- x + 2
 fimpara
 
-escreval("Soma =", soma)
+escreval("Soma = ", soma)
 
 escreva("Digite um numero inteiro: ")
 leia(x)
 fimenquanto
+
+escreval("Programa encerrado.")
 
 fimalgoritmo
