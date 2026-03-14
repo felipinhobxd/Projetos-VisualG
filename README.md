@@ -30,4 +30,4 @@ Se estiver no Linux, Mac, ou apenas quiser ver rápido:
 1. Tenha o [VisualG 3.0](https://sourceforge.net/projects/visualg30/) instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/felipinhobxd/Projetos-VisualG.git](https://github.com/felipinhobxd/Projetos-VisualG.git)
+   git clone https://github.com/felipinhobxd/Projetos-VisualG.git
