@@ -1,42 +1,33 @@
-# 💻 Lógica de Programação e Algoritmos
+# 💻 Meus Estudos de Lógica (VisualG)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VisualG-3.0-blue?style=for-the-badge" alt="VisualG">
-  <img src="https://img.shields.io/badge/Lógica-Programação-brightgreen?style=for-the-badge" alt="Lógica">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status">
-</p>
+Neste repositório, estou registrando minha evolução na lógica de programação. O objetivo aqui é dominar a base do raciocínio algorítmico usando o **VisualG**, antes de avançar para linguagens como Python e JavaScript.
 
-Este repositório armazena meus estudos e exercícios práticos de Lógica de Programação desenvolvidos em **Portugol**. O objetivo é consolidar o raciocínio lógico, base fundamental para qualquer desenvolvedor de sistemas.
-
-> [!IMPORTANT]
-> Todo o conteúdo foi desenvolvido com base nas aulas do professor **Nelio Alves**.
+As atividades fazem parte do curso de **Algoritmos e Lógica de Programação** do professor Nelio Alves.
 
 ---
 
-## 📚 Conteúdos Estudados
+## 📖 O que estou aprendendo:
 
-* **Estruturas Condicionais**: Decisões lógicas com `se-entao-senao`.
-* **Estruturas Repetitivas**:
-  * `enquanto` (While)
-  * `para` (For)
-  * `repita-ate` (Do-While)
+Atualmente, o foco é entender como o computador "pensa". Para isso, estou praticando:
+
+* **Decisões Lógicas**: Criando caminhos diferentes no código com `se-entao-senao`.
+* **Laços de Repetição**: Automatizando tarefas repetitivas usando:
+    * `enquanto` (para quando não sei exatamente quando vai parar)
+    * `para` (para intervalos definidos)
+    * `repita-ate` (para garantir que o código rode ao menos uma vez)
 
 ---
 
-## 🚀 Como Testar os Algoritmos
+## 🚀 Como testar os exercícios
 
-Você pode executar os códigos de duas maneiras:
+Você pode rodar esses algoritmos de duas formas:
 
-### 1. 🌐 Versão Web (Rápido e Fácil)
-Se você não quer instalar nada ou não está no Windows, utilize o editor online:
-<p align="left">
-  <a href="https://visualg.com.br/">
-    <img src="https://img.shields.io/badge/Acessar-VisualG%20Web-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VisualG Web">
-  </a>
-</p>
+### 🌐 No Navegador (Sem instalação)
+Se estiver no Linux, Mac, ou apenas quiser ver rápido:
+👉 [Acesse o VisuAlg Web aqui](https://visualg.com.br/) e cole o código de qualquer arquivo `.alg` deste repositório.
 
-### 2. 💻 Versão Desktop (Windows)
-1. Baixe o **[VisualG 3.0](https://sourceforge.net/projects/visualg30/)**.
-2. Clone este repositório:
+### 🖥️ No Windows (VisualG Desktop)
+1. Tenha o [VisualG 3.0](https://sourceforge.net/projects/visualg30/) instalado.
+2. Clone o repositório:
    ```bash
    git clone [https://github.com/felipinhobxd/Projetos-VisualG.git](https://github.com/felipinhobxd/Projetos-VisualG.git)
