@@ -1,7 +1,8 @@
 algoritmo "soma dos impares"
 
 var
-    a, b, i, copiar, soma : inteiro
+
+a, b, i, copiar, soma : inteiro
 
 inicio
 
