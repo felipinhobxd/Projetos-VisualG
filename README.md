@@ -29,4 +29,4 @@ Para testar os algoritmos deste repositório, você precisará do ambiente do Vi
 1. Faça o download do [VisualG 3.0](https://sourceforge.net/projects/visualg30/).
 2. Clone este repositório na sua máquina:
    ```bash
-   git clone [https://github.com/felipinhobxd/Projetos-VisualG.git](https://github.com/felipinhobxd/Projetos-VisualG.git)
+   git clone https://github.com/felipinhobxd/Projetos-VisualG.git
