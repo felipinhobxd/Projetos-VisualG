@@ -2,7 +2,7 @@ algoritmo "Nome do Programa"
 
 var
 
-a, b, i, copia, soma : inteiro
+a, b, i, copiar, soma : inteiro
 
 inicio
 
@@ -13,9 +13,9 @@ leia(b)
 // Isso se chama SWAP, isso garante que o computador SEMPRE vai ler do menor para o maior
 // precisa disso se a for maior que b, o valor de b vai receber o valor do a, e o a recebe o valor de b
 se a > b entao
- copia <- a
+ copiar <- a
   a <- b
-   b <- copia
+   b <- copiar
 fimse
 
 // soma funciona como se fosse um "cofrinho" ele vai guardando e acumulando
