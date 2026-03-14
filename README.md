@@ -1,38 +1,32 @@
-# Lógica de Programação e Algoritmos (VisualG)
+# 💻 Lógica de Programação e Algoritmos (VisualG)
 
+![VisualG](https://img.shields.io/badge/VisualG-3.0-blue)
+![Lógica de Programação](https://img.shields.io/badge/Lógica-Programação-brightgreen)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
 
-Este repositório armazena meus estudos e exercícios práticos de Lógica de Programação. O foco principal é o desenvolvimento do raciocínio lógico através da implementação de algoritmos em Portugol, utilizando o software VisualG.
+Este repositório armazena meus estudos e exercícios práticos de Lógica de Programação. O foco principal é a construção de uma base sólida de raciocínio lógico através da implementação de algoritmos em Portugol, etapa essencial para o desenvolvimento de sistemas.
 
-Todo o conteúdo foi desenvolvido durante o curso de Algoritmos e Lógica de Programação do professor Nelio Alves.
+Todo o conteúdo foi desenvolvido durante o curso de **Algoritmos e Lógica de Programação** do professor Nelio Alves.
 
 ---
 
-## Conteúdos Estudados
+## 📚 Conteúdos Estudados
 
-Atualmente, o repositório contém exercícios focados em:
+Atualmente, o repositório contém exercícios organizados e focados em:
 
-* **Estruturas Condicionais**: Uso de se-entao-senao para tomada de decisões.
+* **Estruturas Condicionais**: Uso de `se-entao-senao` para tomada de decisões lógicas.
 * **Estruturas Repetitivas (Laços de Repetição)**:
-    * **enquanto (While)**: Para repetições com condições de parada.
-    * **para (For)**: Para repetições com intervalo definido.
-    * **repita-ate (Do-While)**: Para execuções que ocorrem ao menos uma vez.
+  * **`enquanto` (While)**: Para repetições com condições de parada.
+  * **`para` (For)**: Para repetições com intervalo definido.
+  * **`repita-ate` (Do-While)**: Para execuções que ocorrem ao menos uma vez.
 
 ---
 
-## Ferramenta Utilizada
+## 🚀 Como Executar
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>VisualG 3.0</b><br>
-      Interpretador de algoritmos utilizado para os testes e execuções das atividades propostas.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="visualg-logo.png" alt="VisualG Logo" width="300">
-    </td>
-  </tr>
-</table>
+Para testar os algoritmos deste repositório, você precisará do ambiente do VisualG configurado:
 
----
+1. Faça o download do [VisualG 3.0](https://sourceforge.net/projects/visualg30/).
+2. Clone este repositório na sua máquina:
+   ```bash
+   git clone [https://github.com/felipinhobxd/Projetos-VisualG.git](https://github.com/felipinhobxd/Projetos-VisualG.git)
