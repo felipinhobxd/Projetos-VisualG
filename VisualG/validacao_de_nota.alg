@@ -27,7 +27,7 @@ enquanto (nota2 < 0.0) ou (nota2 > 10.0) faca
 fimenquanto
 
 media <- (nota1 + nota2) / 2
-escreva("Media = ", media:2:1)
+escreva("Media = ", media:2:2)
 
 // esse foi o exemplo mais simples, ele só valida a nota, se for menor que 0 ou maior que 10 ele pede para digitar novamente
 // e depois calcula a media e imprime o resultado
