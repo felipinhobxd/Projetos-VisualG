@@ -1,34 +1,42 @@
-# 💻 Lógica de Programação e Algoritmos (VisualG)
+# 💻 Lógica de Programação e Algoritmos
 
-![VisualG](https://img.shields.io/badge/VisualG-3.0-blue)
-![Lógica de Programação](https://img.shields.io/badge/Lógica-Programação-brightgreen)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/VisualG-3.0-blue?style=for-the-badge" alt="VisualG">
+  <img src="https://img.shields.io/badge/Lógica-Programação-brightgreen?style=for-the-badge" alt="Lógica">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status">
+</p>
 
-Este repositório armazena meus estudos e exercícios práticos de Lógica de Programação. O foco principal é a construção de uma base sólida de raciocínio lógico através da implementação de algoritmos em Portugol, etapa essencial para o desenvolvimento de sistemas.
+Este repositório armazena meus estudos e exercícios práticos de Lógica de Programação desenvolvidos em **Portugol**. O objetivo é consolidar o raciocínio lógico, base fundamental para qualquer desenvolvedor de sistemas.
 
-Todo o conteúdo foi desenvolvido durante o curso de **Algoritmos e Lógica de Programação** do professor Nelio Alves.
+> [!IMPORTANT]
+> Todo o conteúdo foi desenvolvido com base nas aulas do professor **Nelio Alves**.
 
 ---
 
 ## 📚 Conteúdos Estudados
 
-Atualmente, o repositório contém exercícios organizados e focados em:
-
-* **Estruturas Condicionais**: Uso de `se-entao-senao` para tomada de decisões lógicas.
-* **Estruturas Repetitivas (Laços de Repetição)**:
-  * **`enquanto` (While)**: Para repetições com condições de parada.
-  * **`para` (For)**: Para repetições com intervalo definido.
-  * **`repita-ate` (Do-While)**: Para execuções que ocorrem ao menos uma vez.
+* **Estruturas Condicionais**: Decisões lógicas com `se-entao-senao`.
+* **Estruturas Repetitivas**:
+  * `enquanto` (While)
+  * `para` (For)
+  * `repita-ate` (Do-While)
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Testar os Algoritmos
 
-Para testar os algoritmos deste repositório, você precisará do ambiente do VisualG configurado:
+Você pode executar os códigos de duas maneiras:
 
-1. Faça o download do [VisualG 3.0](https://sourceforge.net/projects/visualg30/).
-2. Clone este repositório na sua máquina:
+### 1. 🌐 Versão Web (Rápido e Fácil)
+Se você não quer instalar nada ou não está no Windows, utilize o editor online:
+<p align="left">
+  <a href="https://visualg.com.br/">
+    <img src="https://img.shields.io/badge/Acessar-VisualG%20Web-purple?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VisualG Web">
+  </a>
+</p>
+
+### 2. 💻 Versão Desktop (Windows)
+1. Baixe o **[VisualG 3.0](https://sourceforge.net/projects/visualg30/)**.
+2. Clone este repositório:
    ```bash
-   git clone https://github.com/felipinhobxd/Projetos-VisualG.git
-
-Ou use a versão web [VisuAlg Web](https://visualg.com.br/)
+   git clone [https://github.com/felipinhobxd/Projetos-VisualG.git](https://github.com/felipinhobxd/Projetos-VisualG.git)
