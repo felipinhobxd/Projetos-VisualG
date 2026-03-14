@@ -31,4 +31,4 @@ Para testar os algoritmos deste repositório, você precisará do ambiente do Vi
    ```bash
    git clone https://github.com/felipinhobxd/Projetos-VisualG.git
 
-Ou use a versão web [VisualG Web](https://visualg.com.br/)
+Ou use a versão web [VisuAlg Web](https://visualg.com.br/)
