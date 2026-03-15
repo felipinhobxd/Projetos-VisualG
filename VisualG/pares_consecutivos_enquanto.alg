@@ -1,4 +1,4 @@
-algoritmo "pares consecutivos enquanto"
+algoritmo "pares consecutivos enquanto arrumado"
 
 var
 
