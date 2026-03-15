@@ -1,4 +1,4 @@
-algoritmo "calculadora basica"
+algoritmo "calculadora basica arrumada"
 
 var
 
