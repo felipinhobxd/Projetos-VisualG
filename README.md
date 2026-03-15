@@ -24,20 +24,14 @@ Currently, the repository contains exercises focused on:
   <tr>
     <td align="center">
       <b>VisualG 3.0</b><br>
-      Algorithm interpreter used for testing and executing the proposed activities.
+      Interpretador de algoritmos utilizado para os testes e execuções das atividades propostas.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://visualg3.com.br/wp-content/uploads/2019/05/logo-visualg_logo.png" alt="VisualG Logo" width="300">
+      <img src="visualg-logo.png" alt="VisualG Logo" width="300">
     </td>
   </tr>
 </table>
 
 ---
-
-## 🚀 How to Run
-
-1. Download and install **VisualG 3.0**.
-2. Clone this repository or download the `.alg` files.
-3. Open the files in VisualG and press `F9` to run.
