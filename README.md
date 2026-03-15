@@ -24,7 +24,7 @@ Currently, the repository contains exercises focused on:
   <tr>
     <td align="center">
       <b>VisualG 3.0</b><br>
-      Interpretador de algoritmos utilizado para os testes e execuções das atividades propostas.
+      Algorithm interpreter used for testing and executing the proposed activities.
     </td>
   </tr>
   <tr>
