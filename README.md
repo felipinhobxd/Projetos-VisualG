@@ -29,7 +29,7 @@ Currently, the repository contains exercises focused on:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://visualg3.com.br/wp-content/uploads/2019/05/logo-visual_logo.png" alt="VisualG Logo" width="300">
+      <img src="https://visualg3.com.br/wp-content/uploads/2019/05/logo-visualg_logo.png" alt="VisualG Logo" width="300">
     </td>
   </tr>
 </table>
