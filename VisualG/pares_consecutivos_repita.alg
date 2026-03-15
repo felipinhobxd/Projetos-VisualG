@@ -1,4 +1,4 @@
-algoritmo "pares consecutivos repita"
+algoritmo "pares consecutivos repita arrumado"
 
 var
 
