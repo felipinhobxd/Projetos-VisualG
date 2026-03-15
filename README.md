@@ -15,6 +15,8 @@ Currently, the repository contains exercises focused on:
     * **while (enquanto)**: For repetitions with specific stop conditions.
     * **for (para)**: For repetitions with a defined range/interval.
     * **do-while (repita-ate)**: For executions that occur at least once before checking the condition.
+* **Vectors (Arrays)**: One-dimensional structures for storing variables of the same type under a single name, accessed by indices.
+* **Matrices (Multi-dimensional Arrays)**: Data structures organized in a grid with rows and columns for more complex data handling.
 
 ---
 
