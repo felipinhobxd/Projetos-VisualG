@@ -1,4 +1,4 @@
-algoritmo "Quadrante"
+algoritmo "Quadrante arrumado"
 var
     x: inteiro
     y: inteiro
