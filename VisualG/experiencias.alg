@@ -3,7 +3,7 @@ algoritmo "experiencias coelho, rato e sapo"
 var
 
 Cobaia : caractere
-c, r, s, n, i, quantidade : inteiro
+n, i, quantidade : inteiro
 percentualC, percentualR, percentualS, total, totalc, totalr, totals : real
 
 
