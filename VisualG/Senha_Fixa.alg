@@ -1,4 +1,4 @@
-algoritmo "senha fixa"
+algoritmo "senha fixa arrumada"
 
 var
 
