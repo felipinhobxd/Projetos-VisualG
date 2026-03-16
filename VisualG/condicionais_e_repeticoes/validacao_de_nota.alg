@@ -1,4 +1,4 @@
-algoritmo "validação de nota arrumada"
+algoritmo "validação de nota"
 
 var
 
