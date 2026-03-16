@@ -13,14 +13,14 @@ escreva("Digite o tamanho do vetor (max 10): ")
 leia(n)
 
 se n > 10 entao
-  escreval("Tamanho excede o limite. Usando tamanho m�ximo de 10.")
+  escreval("Tamanho excede o limite. Usando tamanho maximo de 10.")
   n <- 10
 fimse
 
 soma <- 0
 media <- 0
 
-para i de 0 at� n-1 faca
+para i de 0 ate n-1 faca
  escreva("Digite um numero: ")
   leia(vet[i])
   soma <- soma + vet[i]
