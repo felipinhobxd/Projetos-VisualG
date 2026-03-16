@@ -1,4 +1,4 @@
-algoritmo "divisao de numeradores e denominadores"
+algoritmo "divisao de numeradores e denominadores apenas"
 
 var
 
