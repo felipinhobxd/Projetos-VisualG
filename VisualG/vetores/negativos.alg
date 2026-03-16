@@ -5,7 +5,6 @@ var
 i, n : inteiro
 vet : vetor[0..9] de inteiro
 
-
 inicio
 
 escreva("Digite o tamanho do vetor (max 10): ")
