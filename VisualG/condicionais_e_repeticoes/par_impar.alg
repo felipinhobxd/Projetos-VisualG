@@ -1,4 +1,4 @@
-algoritmo "par impar"
+algoritmo "par impar, zero"
 
 var
 
