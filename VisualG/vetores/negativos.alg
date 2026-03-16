@@ -10,6 +10,11 @@ inicio
 escreva("Digite o tamanho do vetor (max 10): ")
 leia(n)
 
+se n > 10 entao
+  escreval("Tamanho excede o limite. Usando tamanho máximo de 10.")
+  n <- 10
+fimse
+
 para i de 0 ate n-1 faca
     escreva("Digite um numero: ")
     leia(vet[i])
