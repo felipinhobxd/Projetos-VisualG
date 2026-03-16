@@ -1,4 +1,4 @@
-algoritmo "tabuada basica"
+algoritmo "tabuada basica, muito basica mesmo"
 
 var
 
