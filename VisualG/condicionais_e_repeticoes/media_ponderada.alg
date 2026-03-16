@@ -1,4 +1,4 @@
-algoritmo "Média Ponderada"
+algoritmo "Média Ponderada, facil"
 
 var
 
