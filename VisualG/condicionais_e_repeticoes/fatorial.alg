@@ -1,4 +1,4 @@
-algoritmo "Fatorial"
+algoritmo "Fatorial-1"
 
 var
 
