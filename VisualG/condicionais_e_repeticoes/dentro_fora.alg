@@ -1,4 +1,4 @@
-algoritmo "dentro fora"
+algoritmo "dentro fora basico"
 
 var
 
