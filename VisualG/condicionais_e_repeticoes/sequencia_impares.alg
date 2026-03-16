@@ -1,4 +1,4 @@
-algoritmo "sequencia de impares"
+algoritmo "sequencia de impares ate X"
 
 var
 
