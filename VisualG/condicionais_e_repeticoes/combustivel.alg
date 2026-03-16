@@ -1,4 +1,4 @@
-algoritmo "combustivel arrumado"
+algoritmo "combustivel"
 
 var
  
