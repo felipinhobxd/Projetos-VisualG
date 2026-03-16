@@ -1,4 +1,4 @@
-algoritmo "soma dos impares arrumado"
+algoritmo "soma dos impares"
 
 var
 
