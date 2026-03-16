@@ -1,4 +1,4 @@
-algoritmo "experiencias coelho, rato e sapo"
+algoritmo "experiencias coelho, rato e sapo :)"
 
 var
 
