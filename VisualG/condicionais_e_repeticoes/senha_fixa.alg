@@ -1,4 +1,4 @@
-algoritmo "senha fixa"
+algoritmo "senha fixa 2002"
 
 var
 
