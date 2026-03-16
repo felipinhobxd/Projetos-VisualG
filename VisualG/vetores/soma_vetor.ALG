@@ -2,7 +2,6 @@ Algoritmo "soma vetor"
 
 Var
 
-
 soma, media: real
 i, n : inteiro
 vet : vetor[0..9] de real
@@ -35,7 +34,5 @@ fimpara
 escreval()
 escreval("SOMA =" , soma)
 escreval("MEDIA = ", media)
-
-
 
 Fimalgoritmo
