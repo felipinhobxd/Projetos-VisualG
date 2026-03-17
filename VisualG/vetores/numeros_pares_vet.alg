@@ -15,6 +15,8 @@ para i de 0 ate n-1 faca
        leia(vet[i])
 fimpara
 
+cont <- 0
+
 escreval("NUMEROS PARES:")
 
 para i de 0 ate n-1 faca
